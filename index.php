@@ -242,38 +242,38 @@
             <h3 class="title text-center mb-lg-5 mb-md-4  mb-sm-4 mb-3">Mejores Productos</h3>
             <div class="row banner-below-w3l">
                <div class="col-lg-4 col-md-6 col-sm-6 text-center banner-agile-flowers">
-                  <img src="images/botargas/amlo.jpg" class="img-thumbnail" alt="">
-                  <div class="banner-right-icon">
+                  <a href="php/shop.php"><img src="images/botargas/amlo.jpg" class="img-thumbnail" alt="">
+                  <div class="banner-right-icon"></a>
                      <h4 class="pt-3">Botarga de AMLO</h4>
                   </div>
                </div>
                <div class="col-lg-4 col-md-6 col-sm-6 text-center banner-agile-flowers">
-                  <img src="images/botargas/barney.jpg" class="img-thumbnail" alt="">
-                  <div class="banner-right-icon">
+                  <a href="php/shop.php"><img src="images/botargas/barney.jpg" class="img-thumbnail" alt="">
+                  <div class="banner-right-icon"></a>
                      <h4 class="pt-3">Botarga de Barney</h4>
                   </div>
                </div>
                <div class="col-lg-4 col-md-6 col-sm-6 text-center banner-agile-flowers">
-                  <img src="images/botargas/elmo.jpg" class="img-thumbnail" alt="">
-                  <div class="banner-right-icon">
+                  <a href="php/shop.php"><img src="images/botargas/elmo.jpg" class="img-thumbnail" alt="">
+                  <div class="banner-right-icon"></a>
                      <h4 class="pt-3">Botarga de Elmo</h4>
                   </div>
                </div>
                <div class="col-lg-4 col-md-6 col-sm-6 mt-3 text-center banner-agile-flowers">
-                  <img src="images/botargas/dora.jpg" class="img-thumbnail" alt="">
-                  <div class="banner-right-icon">
+                  <a href="php/shop.php"><img src="images/botargas/dora.jpg" class="img-thumbnail" alt="">
+                  <div class="banner-right-icon"></a>
                      <h4 class="pt-3">Botarga de Dora</h4>
                   </div>
                </div>
                <div class="col-lg-4 col-md-6 col-sm-6 mt-3 text-center banner-agile-flowers">
-                  <img src="images/botargas/simi.jpg" class="img-thumbnail" alt="">
-                  <div class="banner-right-icon">
+                  <a href="php/shop.php"><img src="images/botargas/simi.jpg" class="img-thumbnail" alt="">
+                  <div class="banner-right-icon"></a>
                      <h4 class="pt-3">Botarga de Dr.Simil</h4>
                   </div>
                </div>
                <div class="col-lg-4 col-md-6 col-sm-6 mt-3 text-center banner-agile-flowers">
-                  <img src="images/botargas/peña.jpg" class="img-thumbnail" alt="">
-                  <div class="banner-right-icon">
+                  <a href="php/shop.php"><img src="images/botargas/peña.jpg" class="img-thumbnail" alt="">
+                  <div class="banner-right-icon"></a>
                      <h4 class="pt-3">Botarga de Peña</h4>
                   </div>
                </div>
@@ -345,11 +345,14 @@
             <div class="about-products-w3layouts">
             <p>Dora la VendeDora de Botargas es una empresa sin fines de lucro que busca hacerse millonaria a base de vender botargas.
                </p>
-               <p>Hola, vendo botargas para pagar mi beca y que mi papá no me golpeé ni me obligue a prostituírme.
+               <br>
+               <p>Hola, soy Arturo, el creador de esta página. Vendo botargas para pagar mi beca y que mi papá no me golpeé.
                </p>
                <p class="my-lg-4 my-md-3 my-3">Mi profe me obligó a hacer esta página de internet. Era eso o reprobar.
                </p>
                <p>Compra una botarga o vete a la botarga :)
+               </p>
+               <p>Para más infomración, no me contactes porque no hay más información. Gracias.
                </p>
             </div>
          </div>
